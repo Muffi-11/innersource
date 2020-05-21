@@ -1,6 +1,6 @@
 ## Managing Projects 
 
-Repositories aren't just a place to upload code - they're a place to collaborate and work together. Depending on how you choose to manage projects, that process should be as transparent and integrated as possible. 
+*Repositories* aren't just a place to upload code - they're a place to collaborate and work together. Depending on how you choose to manage projects, that process should be as transparent and integrated as possible. 
 
 [Surveys show](https://m.signalvnoise.com/the-3-most-effective-ways-to-build-trust-as-a-leader/) that trust not only is built by doing good - but by communicating the intent behind those actions. 
 
