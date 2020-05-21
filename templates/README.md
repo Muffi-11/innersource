@@ -1,6 +1,6 @@
 ## Template files 
  
-When creating a repository, it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.
+When creating a **repository**, it can be helpful to start with a template instead of a blank page. Here are some of our favorite resources, templates, and examples for important files in GitHub Repositories.
 
 - [Make a README.md](https://www.makeareadme.com/)
 - [.gitignore](https://github.com/github/gitignore)
